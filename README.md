@@ -5,4 +5,6 @@ MLT Multimedia Framework recompilation os 3.0
 
 && sudo make install
 
+presets "/usr/local/share/mlt"
+
 original https://github.com/mltframework/mlt
