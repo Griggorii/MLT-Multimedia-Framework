@@ -1,7 +1,7 @@
 # MLT-Multimedia-Framework
 MLT Multimedia Framework recompilation os 20.04 , python3.8 native redirect include
 
-New python3-mlt https://github.com/Griggorii/MLT-Multimedia-Framework/releases/tag/python3.8
+New package python3-mlt_6.20.0-2_amd64.deb https://github.com/Griggorii/MLT-Multimedia-Framework/releases/tag/python3.8
 
 MLT Multimedia inpack mlt-master.tar.xz
 
